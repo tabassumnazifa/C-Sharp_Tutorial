@@ -1,1 +1,16 @@
+ User Input and Output in C# (Short Description)
 
+User Input: In C#, user input is taken using Console.ReadLine(), which reads input as a string. 
+It can be converted to other data types like int, double, etc., using Convert.ToInt32(), Convert.ToDouble(), etc.
+
+Output: Display messages or results using Console.WriteLine() or Console.Write()
+
+Common Data Types:
+
+Type                  Description	                         Example
+
+int	                  Integer numbers	                    int age = 20;
+double	              Decimal numbers	                    double price = 99.99;
+char	                Single character	                  char grade = 'A';
+string	              Text (sequence of chars)	          string name = "Nazifa";
+bool	                Boolean (true/false)	              bool isValid = true;
