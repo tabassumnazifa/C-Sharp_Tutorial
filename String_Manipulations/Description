@@ -1,0 +1,10 @@
+Summary of Functions:
+
+Function	                    Purpose
+Trim()	                      Removes spaces from both ends
+ToUpper()	                    Converts to uppercase
+ToLower()	                    Converts to lowercase
+Replace()	                    Replaces one string with another
+Substring()	                  Extracts part of a string
+Split()	                      Breaks a string into parts based on a character
+Length	                      Counts total characters in the string  
