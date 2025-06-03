@@ -1,0 +1,12 @@
+📚 Basic Concept: Class and Object in C#
+In C#, a class is a blueprint or template for creating objects. It defines the properties (data/fields) and methods (functions) that the created objects can have.
+
+An object is an instance of a class — it holds actual values and can use the methods defined in the class.
+🔍 Summary:
+class: defines the structure.
+
+object: real instance based on the class.
+
+A class can have multiple objects.
+
+Objects access data and behavior using dot notation (objectName.Property, objectName.Method())
