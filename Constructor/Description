@@ -1,0 +1,13 @@
+✅ Default Constructor
+A constructor that takes no parameters.
+It is called automatically when an object is created.
+If no constructor is written, C# provides a default constructor by default.
+✅ Parameterized Constructor
+A constructor that takes arguments (parameters).
+Used to initialize an object with specific values.
+✅ Copy Constructor
+A constructor that creates a new object by copying another object.
+It takes an object of the same class as a parameter.
+✅ Private Constructor
+A constructor that is private and cannot be accessed from outside the class.
+Used to restrict object creation.
