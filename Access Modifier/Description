@@ -1,0 +1,7 @@
+Modifier	       Same Class	          Derived Class	           Same Assembly	            Other Assemblies
+public	             ✅	                ✅	                        ✅	                        ✅
+private	             ✅	                ❌	                        ❌	                        ❌
+protected	           ✅	                ✅	                        ❌	                        ❌
+internal	           ✅	                ✅	                        ✅	                        ❌
+protected internal	 ✅	                ✅	                        ✅	                        ✅ (only via inheritance)
+private protected	   ✅	                ✅	                        ✅	                        ❌
