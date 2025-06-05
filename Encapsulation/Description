@@ -1,0 +1,7 @@
+🔒 Encapsulation in C# – Key Points:
+--Encapsulation is the process of hiding internal data and exposing only necessary parts via public methods or properties.
+--Achieved using access modifiers: private, public, protected, etc.
+--Helps enforce data security and integrity by restricting direct access to class fields.
+--Private fields are accessed or modified through public properties or methods (getters and setters).
+--Encourages modularity, maintainability, and code reusability.
+--Allows you to add validation logic while setting data (e.g., age > 0).
