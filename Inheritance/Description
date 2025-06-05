@@ -1,0 +1,26 @@
+🔑 Key Points on Inheritance in C#
+Single Inheritance 👨‍👩‍👦
+One class inherits from a single base class to reuse properties and methods.
+Example: student inherits from person.
+
+Multilevel Inheritance 🏗️
+A class inherits from a derived class, creating a chain of inheritance.
+Example: academic inherits from student → student inherits from person.
+
+Multiple Inheritance via Interfaces 🔗
+C# doesn’t support multiple class inheritance directly but allows implementing multiple interfaces.
+Example: extracurriculur implements both Icurriculum and Isport interfaces.
+
+Hybrid Inheritance ⚙️
+*Combines multilevel inheritance and multiple interface inheritance in one program.
+*Benefits of Inheritance 🌟
+*Reuse code efficiently ♻️
+*Establish a clean class hierarchy 🧱
+*Support polymorphism for flexible designs 🔄
+*Reduce redundancy and improve maintainability 🛠️
+
+🔹 About Interfaces in C# 🔹
+*Interfaces define contracts — they specify what a class should do, but not how it does it. 📜
+*Allow a class to implement multiple behaviors — enabling multiple inheritance without ambiguity. 🧩
+*Promote loose coupling by separating the definition of functionality from its implementation. 🔗
+*Interfaces help in designing scalable and testable software components. 🚀
