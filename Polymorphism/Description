@@ -1,0 +1,15 @@
+✅ What is Polymorphism?
+Polymorphism means "many forms." In C#, it allows methods to behave differently based on the context — such as different parameter types or class hierarchy.
+
+🧩 Types of Polymorphism in C#
+**Compile-time Polymorphism (Static Binding)
+---Achieved through Method Overloading.
+---The decision is made during compile-time.
+**Run-time Polymorphism (Dynamic Binding)
+---Achieved through Method Overriding using virtual and override.
+---The decision is made at runtime.
+---Requires inheritance and base class reference.
+✨ Benefits of Polymorphism:
+---Increases code reusability.
+---Supports clean code and open/closed principle.
+---Makes it easier to maintain and extend applications.
