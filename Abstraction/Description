@@ -1,0 +1,7 @@
+🔹 What is Abstraction?
+Abstraction is a fundamental concept in object-oriented programming (OOP) that hides complex implementation details and shows only the essential features of an object.
+
+🔹 Why Use Abstraction?
+--To reduce complexity.
+--To improve code readability and maintainability.
+--To focus on what an object does, not how it does it.
