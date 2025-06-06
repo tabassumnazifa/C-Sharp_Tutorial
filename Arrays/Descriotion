@@ -1,0 +1,10 @@
+✅ User Input
+✅ 1D Array, 2D Array, and Jagged Array
+🌟 Clear explanations
+💡 Learning-focused comments
+✅ Features
+    Feature	                                                      Description
+✅ User Input	                  The program uses Console.ReadLine() with Convert.ToInt32() to safely take numeric input from users for array sizes and elements.
+✅ 1D Array                    	A single-dimensional array where users define the size and enter each element. It's printed linearly.
+✅ 2D Array                    	A matrix-style array with rows and columns. Users define dimensions and enter values by position. It's printed row by row.
+✅ Jagged Array	                An array of arrays where each row can have a different number of elements. Users define the number of rows and each row's length individually.
