@@ -1,0 +1,5 @@
+Keyword          	Purpose
+try	              Wraps the code that might throw an exception
+catch	            Catches and handles specific or general exceptions
+finally	          Executes cleanup code (runs whether exception occurs or not)
+throw	            Manually raises an exception
