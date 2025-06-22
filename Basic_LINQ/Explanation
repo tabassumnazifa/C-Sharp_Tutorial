@@ -1,0 +1,6 @@
+•	select: Chooses which data to return or project from the source.
+•	orderby: Sorts elements in ascending or descending order.
+•	from: Specifies the data source in a LINQ query.
+•	Count(): Counts the number of elements in a collection or that satisfy a condition.
+•	FirstOrDefault(): Returns the first element that matches a condition or default if none found.
+
